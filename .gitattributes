@@ -1,0 +1,27 @@
+*.RTF   diff=astextplain
+
+# Ignore files in git archive (i.e. GitHub release builds)
+
+## Docker
+Dockerfile                              
+.dockerignore                           
+## Travis
+.travis.yml                             
+
+## GitHub
+.github/                                
+
+## Git
+.gitattributes                          
+.gitignore                              
+
+## Scalingo
+scalingo.json                           
+
+## RSS-Bridge
+phpunit.xml                           
+phpcs.xml                               
+@@ -42,8 +48,22 @@ tests/               
+cache/.gitkeep                          
+bridges/DemoBridge.php                  
+bridges/FeedExpanderExampleBridge.php   

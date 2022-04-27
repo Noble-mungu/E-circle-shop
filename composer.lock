@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "bf624e0126a3792c672e1fff5b6c0699",
+    "packages": [
+        {
+            "name": "perials/check",
+            "version": "7.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/perials/check.git",
+                "reference": "c0da4d61cb9b07edc67c47ef58b4e324d5e7356d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/perials/check/zipball/c0da4d61cb9b07edc67c47ef58b4e324d5e7356d",
+                "reference": "c0da4d61cb9b07edc67c47ef58b4e324d5e7356d",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Abc\\": "src/xyz"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Perials",
+                    "email": "info@perials.com"
+                }
+            ],
+            "description": "Package for testing packagist",
+            "support": {
+                "issues": "https://github.com/perials/check/issues",
+                "source": "https://github.com/perials/check/tree/7.1.0"
+            },
+            "time": "2019-09-30T08:37:00+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "perials/check": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

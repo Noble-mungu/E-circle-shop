@@ -1,0 +1,15 @@
+{
+    "name": "perials/check",
+    "description": "Package for testing packagist",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Perials",
+            "email": "info@perials.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Abc\\": "src/xyz"}
+    },
+    "require": {}
+}

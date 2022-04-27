@@ -1,0 +1,46 @@
+{
+    "packages": [
+        {
+            "name": "perials/check",
+            "version": "7.1.0",
+            "version_normalized": "7.1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/perials/check.git",
+                "reference": "c0da4d61cb9b07edc67c47ef58b4e324d5e7356d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/perials/check/zipball/c0da4d61cb9b07edc67c47ef58b4e324d5e7356d",
+                "reference": "c0da4d61cb9b07edc67c47ef58b4e324d5e7356d",
+                "shasum": ""
+            },
+            "time": "2019-09-30T08:37:00+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Abc\\": "src/xyz"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Perials",
+                    "email": "info@perials.com"
+                }
+            ],
+            "description": "Package for testing packagist",
+            "support": {
+                "issues": "https://github.com/perials/check/issues",
+                "source": "https://github.com/perials/check/tree/7.1.0"
+            },
+            "install-path": "../perials/check"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
