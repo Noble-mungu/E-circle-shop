@@ -40,6 +40,16 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 11.first register and then login
 
 
+# Tools
+Html
+Css
+Bootstrap
+javascript
+Php
+Heroku
+
+
+
 
 
 
